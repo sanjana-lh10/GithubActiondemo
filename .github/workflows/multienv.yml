@@ -45,6 +45,5 @@ jobs:
    
     
 
-        shell: powershell
-        run: echo Hello,from self-hosted runner!
+        
 
